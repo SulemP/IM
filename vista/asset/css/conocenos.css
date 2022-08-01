@@ -1,0 +1,25 @@
+#conocenos{
+    position: relative;
+    margin-top: 7rem;
+}
+
+.linea{
+    width: 100%;
+    height: .5rem;
+    margin-top: 1rem;
+    background-color: var(--dorado);
+}
+
+.conocenosInfo{
+    margin-top: 5rem;
+}
+
+.conocenosText{
+    height: 19.6875rem;
+     display: flex;
+    align-items: center;
+    padding: 0 3rem;
+}
+
+
+

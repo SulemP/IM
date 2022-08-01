@@ -1,0 +1,15 @@
+#footer{
+    position: relative;
+    margin-top: .5rem;
+    background-color: var(--obscuro);
+    height: 200px;
+}
+
+.subFooter{
+    position: absolute;
+    font-size: 6rem;
+    font-weight: bold;
+    color: var(--dorado);
+    top: -5rem;
+    left: 10%;
+}

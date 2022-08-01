@@ -1,0 +1,21 @@
+:root{
+    --dorado: #CBBA8E; 
+    --cielo: rgb(139,162,197);
+    --rey: rgb(43,86,148);
+    --obscuro: rgb(66,66,66);
+    --claro: rgb(84,84,84);
+}
+
+a{
+    text-decoration: none;
+}
+
+.sombra{
+    -webkit-box-shadow: 0px 0px 20px 14px #CBBA8E; 
+    box-shadow: 0px 0px 20px 14px #CBBA8E;
+}
+
+.subtitulo{
+    color: var(--cielo);
+    text-transform: uppercase;
+}
