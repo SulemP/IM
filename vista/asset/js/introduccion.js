@@ -6,4 +6,4 @@ setTimeout(() => {
   seccionIntroduccion.setAttribute("class", "invisible");
   seccionHome.removeAttribute("class", "invisible");
   seccionHome.setAttribute("class", "home");
-}, 500);
+}, 5000);

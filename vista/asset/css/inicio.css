@@ -24,7 +24,7 @@
     color: white;
 }
 
-.bloqueInicio{
+#bloqueInicio{
     position: relative;
 }
 
@@ -83,4 +83,8 @@ button:hover{
     border: 3px solid var(--dorado);
     -webkit-box-shadow: 0px 0px 20px 14px #FFFFFF; 
     box-shadow: 0px 0px 20px 14px #FFFFFF;
+}
+
+.cabezoteScroll{
+    background-color: var(--dorado);
 }

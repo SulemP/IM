@@ -16,9 +16,10 @@
 
 .conocenosText{
     height: 19.6875rem;
-     display: flex;
+    padding: 2rem;
+    text-align: justify;
+    display: flex;
     align-items: center;
-    padding: 0 3rem;
 }
 
 
